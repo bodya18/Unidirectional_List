@@ -1,0 +1,4 @@
+D:\My proects\Unidirectional list\Debug\Unidirectional list.exe
+D:\My proects\Unidirectional list\Debug\Unidirectional list.pdb
+C:\Users\i5-9400f\Documents\GitHub\Unidirectional_List\Debug\Unidirectional list.exe
+C:\Users\i5-9400f\Documents\GitHub\Unidirectional_List\Debug\Unidirectional list.pdb
